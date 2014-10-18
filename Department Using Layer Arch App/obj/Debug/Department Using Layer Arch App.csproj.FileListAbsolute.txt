@@ -1,0 +1,29 @@
+E:\projects\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe.config
+E:\projects\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe
+E:\projects\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.pdb
+E:\projects\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csprojResolveAssemblyReference.cache
+E:\projects\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.DepartmentUI.resources
+E:\projects\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.Properties.Resources.resources
+E:\projects\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csproj.GenerateResource.Cache
+E:\projects\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.exe
+E:\projects\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.pdb
+L:\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe.config
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.exe
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.pdb
+L:\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe
+L:\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.pdb
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csprojResolveAssemblyReference.cache
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.DepartmentUI.resources
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.Properties.Resources.resources
+L:\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csproj.GenerateResource.Cache
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe.config
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.exe
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.pdb
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.exe
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\bin\Debug\Department Using Layer Arch App.pdb
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csprojResolveAssemblyReference.cache
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.DepartmentUI.resources
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.Properties.Resources.resources
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department Using Layer Arch App.csproj.GenerateResource.Cache
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.StudentUI.resources
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\11-10-14\Department Using Layer Arch App\obj\Debug\Department_Using_Layer_Arch_App.University_UI.resources
